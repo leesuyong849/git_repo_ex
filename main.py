@@ -1,5 +1,5 @@
-# like 담당자인 경우
-import like
+import cart
 
 def main():
-	return like.like()
+	return cart.cart()
+
